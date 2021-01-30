@@ -23,7 +23,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 then serve -s build -p 'port number'
 
-###for windowns user 
+###`for windowns users`
 first write,
 Set-Execution Policy RemoteSigned -Scope Current User
 
