@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "start react native course",
+      "day": "Jan 30th at 2:10 AM",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "fininsh codeblocks ML course",
+      "day": "Jan 30th at 7:10 AM",
+      "reminder": true
+    },
+    {
+      "text": "QWERTY",
+      "day": "Jan 30th at 1:20AM",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Done ",
+      "day": "30 January at 8:03 PM",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
